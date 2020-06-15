@@ -1,19 +1,36 @@
 # Arduino-STEM-Presentation
-An in-depth half-day public presentation and workshop I presented to a bunch of teachers in Dayton, Ohio in 2014 while working in the MAVLab (**Micro Air Vehicles Indoor Flight Laboratory**) for the Air Force Research Laboratory (AFRL). The goal was to help teachers learn, get excited about, and be able to teach STEM (Science, Technology, Engineering, and Math) to their students. 
+An in-depth half-day public presentation and workshop I presented to a bunch of teachers in Dayton, Ohio in 2014 while working in the MAVLab (**Micro Air Vehicles Indoor Flight Laboratory**) for the Air Force Research Laboratory (AFRL). The goal was to help teachers learn, get excited about, and be able to teach STEM (Science, Technology, Engineering, and Math) to their students. Here is the main Arduino demo board I made:
+
+![](Arduino/Sketches/Gabriels_Main_Demo/Arduino_cool_Leonardo_class_demo_board_pic_2_(right)_small.JPG)
+
+> _You can lead a horse to the water but cannot force him to drink.__
+
+The main demo device I made for the presentation was basically just an Arduino Leonardo with a ton of sensors and things plugged into it, with a button to tell it to continue and to make basic selections in its crude "menus" where it was asking for user interaction. It acted as a USB HID keyboard device, typing out its responses right into a Microsoft Word doc I had, interacting with the user via the button and sensors on the board, and the text it typed back out into Microsoft Word. I had an ultrasonic sensor and a variety of other devices, do try to motivate the teachers and get them excited about what this little device could do! 
+
+The demo had 2 parts to it, with 2 separate firmware files, since I entirely filled up the Flash memory on the Leonardo board due to all of the text output I stored inside it that I had it type out to the user. Here is the full text output it printed out for both demos, to see what kind of interaction we had with the main demo device:
+
+1. Demo 1:
+    1. Firmware for Demo 1:  
+    1. PDF of the output it typed out to us: Arduino/Sketches/Gabriels_Main_Demo/Hello_Gabriel--Demo1_sample.pdf
+    1. Word doc of the output it typed out to us:
+1. Demo 2: 
+    1. Firmware for Demo 1:  
+    1. PDF of the output it typed out to us: 
+    1. Word doc of the output it typed out to us:
 
 I really enjoyed giving this presentation, and I highly recommend you check out and watch this video here to check out some of my truly exciting research I got to do while working there! 
 
-1. My own work: [Flight Controller, Arduino interface to RC Tx, Gabriel Staples_large.mp4](Arduino/Engineering%20Videos%20%26%20Presentations/Flight%20Controller%2C%20Arduino%20interface%20to%20RC%20Tx%2C%20Gabriel%20Staples_large.mp4)
-    1. ![](Arduino/Engineering%20Videos%20%26%20Presentations/Gabriel_flight_controller1.png)
-    1. ![](Arduino/Engineering%20Videos%20%26%20Presentations/Gabriel_flight_controller2.png)
+1. My own work: [Flight_Controller--Arduino_interface_to_RC_Tx--Gabriel_Staples_large.mp4](Arduino/Engineering_Videos_and_Presentations/Flight_Controller--Arduino_interface_to_RC_Tx--Gabriel_Staples_large.mp4)
+    1. ![](Arduino/Engineering_Videos_and_Presentations/screenshots/Gabriel_flight_controller1.png)
+    1. ![](Arduino/Engineering_Videos_and_Presentations/screenshots/Gabriel_flight_controller2.png)
     1. Watch it on YouTube: [2/3 - Autonomous quadcopter guidance and control (*PID-based* pure pursuit demonstration)](https://www.youtube.com/watch?v=wY3oh2GIfCI)
     1. Other YouTube Videos:
         1. [1/3 - Autonomous quadcopter guidance and control (*physics-based* pure pursuit simulation)](https://www.youtube.com/watch?v=LjuPA43HceQ)
         1. [3/3 - Autonomous quadcopter guidance & control (*physics-based* pure pursuit demonstration)](https://www.youtube.com/watch?v=H5kXzpPFdII)
-1. A peer's work (Dr. Mark Mears): [FlightLabProgressShort-Dr Mark Mears_large.mp4](Arduino/Engineering%20Videos%20%26%20Presentations/FlightLabProgressShort-Dr%20Mark%20Mears_large.mp4)
+1. A peer's work (Dr. Mark Mears): [FlightLabProgressShort-Dr_Mark_Mears_large.mp4](Arduino/Engineering_Videos_and_Presentations/FlightLabProgressShort-Dr_Mark_Mears_large.mp4)
     1. This is incredibly-awesome work he did! Watch him autonomously perch a fixed-wing aircraft on a platform in this video, with the vehicle landing at near-zero forward and vertical velocity via a sharp pull-up and stall "parachute" type maneuver.
-    1. ![](Arduino/Engineering%20Videos%20%26%20Presentations/Mears_perching_maneuver1.png)
-1. [SUAS & Arduino Presentation - Staples - 20140403.pdf](Arduino/Engineering%20Videos%20%26%20Presentations/SUAS%20%26%20Arduino%20Presentation%20-%20Staples%20-%2020140403.pdf) - a publicly-released "Lunch and Learn" presentation I gave on my SUAS (Small Unmanned Aerial Systems) and Arduino work on autonomous systems in the indoor flight lab.
+    1. ![](Arduino/Engineering_Videos_and_Presentations/screenshots/Mears_perching_maneuver1.png)
+1. [SUAS & Arduino Presentation - Staples - 20140403.pdf](Arduino/Engineering_Videos_and_Presentations/SUAS_and_Arduino_Presentation--Staples--20140403.pdf) - a publicly-released "Lunch and Learn" presentation I gave on my SUAS (Small Unmanned Aerial Systems) and Arduino work on autonomous systems in the indoor flight lab.
 
 ----
 
