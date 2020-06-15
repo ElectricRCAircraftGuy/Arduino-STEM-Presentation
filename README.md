@@ -1,9 +1,18 @@
+<!-- To center an image, set left and right margin to auto, and make it into a block element. See: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_center -->
+<style>
+img {
+  display: block;
+  /*display: inline-block;*/
+  /*margin-left: auto;*/
+  /*margin-right: auto;*/
+  /*width: 50%;*/
+}
+</style>
+
 # Arduino-STEM-Presentation
 An in-depth half-day public presentation and workshop I presented to a bunch of teachers in Dayton, Ohio in 2014 while working in the MAVLab (**Micro Air Vehicles Indoor Flight Laboratory**) for the Air Force Research Laboratory (AFRL). The goal was to help teachers learn about, get excited about, and be able to better teach STEM (Science, Technology, Engineering, and Math) to their students. Here is the main Arduino demo board I made:
 
--> ![](Arduino/Sketches/Gabriels_Main_Demo/Arduino_cool_Leonardo_class_demo_board_pic_2--right_small.jpg) <-
-
--> test text <-
+<img src="Arduino/Sketches/Gabriels_Main_Demo/Arduino_cool_Leonardo_class_demo_board_pic_2--right_small.jpg" alt="demo board" width="50%" display=block margin-left=auto margin-right=auto>
 
 And a quote I attached to it to remind us all of the importance of taking our own initiative in regards to our own learning:
 
@@ -27,7 +36,7 @@ The demo had 2 parts to it, with 2 separate firmware files. It could not all fit
 I really enjoyed giving this presentation, and I highly recommend you check out and watch this video here to check out some of my truly exciting research I got to do while working there! 
 
 1. My own work: [Flight_Controller--Arduino_interface_to_RC_Tx--Gabriel_Staples_large.mp4](Arduino/Engineering_Videos_and_Presentations/Flight_Controller--Arduino_interface_to_RC_Tx--Gabriel_Staples_large.mp4)
-    1. ![](Arduino/Engineering_Videos_and_Presentations/screenshots/Gabriel_flight_controller1.png)
+    1. <img src="Arduino/Engineering_Videos_and_Presentations/screenshots/Gabriel_flight_controller1.png" width=50%>
     1. ![](Arduino/Engineering_Videos_and_Presentations/screenshots/Gabriel_flight_controller2.png)
     1. Watch it on YouTube: [2/3 - Autonomous quadcopter guidance and control (*PID-based* pure pursuit demonstration)](https://www.youtube.com/watch?v=wY3oh2GIfCI)
     1. Other YouTube Videos:
