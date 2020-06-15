@@ -1,7 +1,9 @@
 # Arduino-STEM-Presentation
 An in-depth half-day public presentation and workshop I presented to a bunch of teachers in Dayton, Ohio in 2014 while working in the MAVLab (**Micro Air Vehicles Indoor Flight Laboratory**) for the Air Force Research Laboratory (AFRL). The goal was to help teachers learn about, get excited about, and be able to better teach STEM (Science, Technology, Engineering, and Math) to their students. Here is the main Arduino demo board I made:
 
-![](Arduino/Sketches/Gabriels_Main_Demo/Arduino_cool_Leonardo_class_demo_board_pic_2--right_small.JPG)
+-> ![](Arduino/Sketches/Gabriels_Main_Demo/Arduino_cool_Leonardo_class_demo_board_pic_2--right_small.jpg) <-
+
+-> test text <-
 
 And a quote I attached to it to remind us all of the importance of taking our own initiative in regards to our own learning:
 
