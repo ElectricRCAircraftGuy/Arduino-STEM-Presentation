@@ -1,0 +1,8 @@
+Copy and paste these folders into your "libraries" folder inside your main Arduino Sketch directory.  
+
+Find this directory by going to "File" --> "Preferences" in the Arduino IDE (Integrated Development Environment).  
+-Here, you will see your "Sketchbook location."  
+--That's where you will find your "libraries" folder.
+
+~Gabriel Staples
+13 June 2014

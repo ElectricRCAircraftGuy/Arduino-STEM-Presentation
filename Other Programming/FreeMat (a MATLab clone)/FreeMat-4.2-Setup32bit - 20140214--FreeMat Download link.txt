@@ -1,0 +1,10 @@
+
+Gabriel Staples
+14 June 2020
+
+"FreeMat-4.2-Setup32bit - 20140214.exe"
+
+I downloaded "FreeMat-4.2-Setup32bit.exe" on 14 Feb. 2014, and renamed it to "FreeMat-4.2-Setup32bit - 20140214.exe". 
+
+Download it here: http://freemat.sourceforge.net/#download
+

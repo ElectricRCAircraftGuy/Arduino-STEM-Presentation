@@ -1,0 +1,47 @@
+0000000000000000000000000000000000000000 e3eec22f68a2b83c1c70be440e7c3912145db54e panther3001 <ercaguy@gmail.com> 1397335305 -0400	commit (initial): just learning to use Git
+e3eec22f68a2b83c1c70be440e7c3912145db54e af64ab6bbdcec480f575a3fa7a67e45df46bf06f panther3001 <ercaguy@gmail.com> 1397335750 -0400	commit: another test
+af64ab6bbdcec480f575a3fa7a67e45df46bf06f 9bb0363d8efe65e3114c49aa2fdaf4104a1bf3de panther3001 <ercaguy@gmail.com> 1397336912 -0400	commit: still learning
+9bb0363d8efe65e3114c49aa2fdaf4104a1bf3de 0dcc1f301b46f644ad38a77cd71e9daac766514a panther3001 <ercaguy@gmail.com> 1397337051 -0400	commit: learning
+0dcc1f301b46f644ad38a77cd71e9daac766514a 72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337451 -0400	commit: learning
+72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764 9bb0363d8efe65e3114c49aa2fdaf4104a1bf3de ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337500 -0400	reset: moving to 0dcc1f301b46f644ad38a77cd71e9daac766514a^
+9bb0363d8efe65e3114c49aa2fdaf4104a1bf3de 328bc2aa85387e840d0418c13d9168efdaa29aba ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337519 -0400	commit: learning
+328bc2aa85387e840d0418c13d9168efdaa29aba 72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337530 -0400	rebase finished: refs/heads/master onto 72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764
+72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764 9bb0363d8efe65e3114c49aa2fdaf4104a1bf3de ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337630 -0400	reset: moving to 0dcc1f301b46f644ad38a77cd71e9daac766514a^
+9bb0363d8efe65e3114c49aa2fdaf4104a1bf3de 8ca798c9822d1a2f74d9f293c345fd743bfcbe9a ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337657 -0400	commit: test
+8ca798c9822d1a2f74d9f293c345fd743bfcbe9a 72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337665 -0400	rebase finished: refs/heads/master onto 72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764
+72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764 e3eec22f68a2b83c1c70be440e7c3912145db54e ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337706 -0400	reset: moving to af64ab6bbdcec480f575a3fa7a67e45df46bf06f^
+e3eec22f68a2b83c1c70be440e7c3912145db54e c63e3bf7cb99843d0201963e1f9af99be01e5eca ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337739 -0400	commit: just learning to use Git
+c63e3bf7cb99843d0201963e1f9af99be01e5eca 72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337746 -0400	rebase finished: refs/heads/master onto 72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764
+72f8d3fe0d360d9fa416c0bc0b5ebcd0f0ffc764 0893425f937e902023f847ad7e040842516b8bdc ElectricRCAircraftGuy <ercaguy@gmail.com> 1397337854 -0400	commit: learning
+0893425f937e902023f847ad7e040842516b8bdc 76f8532916e3e6341cfad2afd14d5fc4cc3fb94c ElectricRCAircraftGuy <ercaguy@gmail.com> 1397338367 -0400	commit: readme finished now
+76f8532916e3e6341cfad2afd14d5fc4cc3fb94c d1d23cdf2bbcc81de9f649e223ed739628e2eacd ElectricRCAircraftGuy <ercaguy@gmail.com> 1397338663 -0400	commit: minor readme edit
+d1d23cdf2bbcc81de9f649e223ed739628e2eacd 98c342a977ea54f4b4d1a6b62378dfb87a8de165 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397338744 -0400	commit: test
+98c342a977ea54f4b4d1a6b62378dfb87a8de165 e691fcb11bb81771301a67e8a0db3ac73c6784e5 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397338792 -0400	commit: test
+e691fcb11bb81771301a67e8a0db3ac73c6784e5 e61132441b22bb3e065f32ffae7c72352b13b1a4 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397338928 -0400	commit: readme update
+e61132441b22bb3e065f32ffae7c72352b13b1a4 d6987d835d022003d52f58b7f6559e33135e256c ElectricRCAircraftGuy <ercaguy@gmail.com> 1397339419 -0400	commit: added code files
+d6987d835d022003d52f58b7f6559e33135e256c 6f5889ec7717ac7590f239f2392c2f6c51285e91 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397351098 -0400	commit: added .gitattributes & .gitignore back
+6f5889ec7717ac7590f239f2392c2f6c51285e91 816330a4ef72d2773a600c31c72b8f5e09a185e3 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397351598 -0400	revert: Revert "added .gitattributes & .gitignore back"
+816330a4ef72d2773a600c31c72b8f5e09a185e3 6f5889ec7717ac7590f239f2392c2f6c51285e91 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397351674 -0400	reset: moving to 816330a4ef72d2773a600c31c72b8f5e09a185e3^
+6f5889ec7717ac7590f239f2392c2f6c51285e91 6feaded15b25073cc4539f09200c36876f890e76 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397351750 -0400	revert: Revert "just learning to use Git"
+6feaded15b25073cc4539f09200c36876f890e76 af0b80c4e0e57ed049d1acceb08ba79da1d197a8 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397351789 -0400	revert: Revert "added code files"
+af0b80c4e0e57ed049d1acceb08ba79da1d197a8 6f5889ec7717ac7590f239f2392c2f6c51285e91 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397351809 -0400	reset: moving to 6feaded15b25073cc4539f09200c36876f890e76^
+6f5889ec7717ac7590f239f2392c2f6c51285e91 d6987d835d022003d52f58b7f6559e33135e256c ElectricRCAircraftGuy <ercaguy@gmail.com> 1397352182 -0400	reset: moving to 6f5889ec7717ac7590f239f2392c2f6c51285e91^
+d6987d835d022003d52f58b7f6559e33135e256c c5713579fa527b1004010393784b65c684be5742 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397352219 -0400	commit: learning
+c5713579fa527b1004010393784b65c684be5742 852b1674308597b75c19da89f570ed88c209abf8 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397352941 -0400	commit: initial version complete
+852b1674308597b75c19da89f570ed88c209abf8 c5713579fa527b1004010393784b65c684be5742 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397353049 -0400	reset: moving to 852b1674308597b75c19da89f570ed88c209abf8^
+c5713579fa527b1004010393784b65c684be5742 88827c83b20fb3e8bba8dcdac3ff19d80c354364 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397353061 -0400	commit: initial version complete
+88827c83b20fb3e8bba8dcdac3ff19d80c354364 3898392b33bc36a60dc52755ac141064aed05110 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397353065 -0400	pull --progress --prune: Merge made by the 'recursive' strategy.
+3898392b33bc36a60dc52755ac141064aed05110 22377f22b6a5cc008df434383dcde170cfecd8e2 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397353349 -0400	commit: no changes
+22377f22b6a5cc008df434383dcde170cfecd8e2 3898392b33bc36a60dc52755ac141064aed05110 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397353389 -0400	reset: moving to 22377f22b6a5cc008df434383dcde170cfecd8e2^
+3898392b33bc36a60dc52755ac141064aed05110 22377f22b6a5cc008df434383dcde170cfecd8e2 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397353411 -0400	pull --progress --prune: Fast-forward
+22377f22b6a5cc008df434383dcde170cfecd8e2 47b32cca36855e4e7057e34f532f65434bf4ca42 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397354074 -0400	commit: minor update to .gitignore
+47b32cca36855e4e7057e34f532f65434bf4ca42 0c7e82b09d177be0b1f5188d287ccafa2df0a3b4 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397354347 -0400	commit: learning
+0c7e82b09d177be0b1f5188d287ccafa2df0a3b4 47b32cca36855e4e7057e34f532f65434bf4ca42 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397354352 -0400	reset: moving to 0c7e82b09d177be0b1f5188d287ccafa2df0a3b4^
+47b32cca36855e4e7057e34f532f65434bf4ca42 eec94af8f33758a246a26ca872970c8fd8dd2d2d ElectricRCAircraftGuy <ercaguy@gmail.com> 1397354356 -0400	commit: learning
+eec94af8f33758a246a26ca872970c8fd8dd2d2d 47b32cca36855e4e7057e34f532f65434bf4ca42 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397354389 -0400	reset: moving to eec94af8f33758a246a26ca872970c8fd8dd2d2d^
+47b32cca36855e4e7057e34f532f65434bf4ca42 eec94af8f33758a246a26ca872970c8fd8dd2d2d ElectricRCAircraftGuy <ercaguy@gmail.com> 1397354395 -0400	pull --progress --prune: Fast-forward
+eec94af8f33758a246a26ca872970c8fd8dd2d2d 295f08981e1038a5380eded47c192a8fdd653b60 ElectricRCAircraftGuy <ercaguy@gmail.com> 1397354577 -0400	commit: Readme update
+295f08981e1038a5380eded47c192a8fdd653b60 5299238688b641a5565915edfc07a90016cf0ad6 ElectricRCAircraftGuy <ercaguy@gmail.com> 1399960069 -0400	commit: basic update
+5299238688b641a5565915edfc07a90016cf0ad6 962e2457f90ff3aadcfda4149d346eca4f05eba7 ElectricRCAircraftGuy <ercaguy@gmail.com> 1400379703 -0400	commit: A major revision to make this a true Library!
+962e2457f90ff3aadcfda4149d346eca4f05eba7 a2eae0393b1e460f30a6fd6b457d8e325a4d50b2 ElectricRCAircraftGuy <ercaguy@gmail.com> 1401502921 -0400	commit: removed "T2" reference from all method names
+a2eae0393b1e460f30a6fd6b457d8e325a4d50b2 25286e87e6df4cfc886219deddb577da35a08f44 ElectricRCAircraftGuy <ercaguy@gmail.com> 1401509485 -0400	commit: corrected keywords to get proper syntax highlighting

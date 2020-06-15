@@ -1,0 +1,22 @@
+
+Gabriel Staples
+14 June 2020
+
+All Arduino downloads removed from here to save space. Download them youself here: 
+https://www.arduino.cc/en/Main/Software
+
+---------------
+
+What was in this dir:
+
+    Arduino STEM DVD - 20140623/Arduino/!Install Files$ tree
+    .
+    ├── arduino-1.0.5-r2-windows installer-20140429.exe
+    ├── arduino-1.0.5-r2-windows zip file-20140429.zip
+    ├── arduino-1.5.6-r2-windows installer-20140429.exe
+    ├── arduino-1.5.6-r2-windows zip file-20140429.zip
+    ├── Arduino - Software.desktop
+    └── Download Arduino here.txt
+
+    0 directories, 6 files
+
